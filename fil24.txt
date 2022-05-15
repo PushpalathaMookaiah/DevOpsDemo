@@ -1,0 +1,11 @@
+hello world
+i am good
+Good i am learning git commands 
+what are git commands 
+we have git init
+when you execute the command 
+dot git folder gets created 
+remember you sould not delete this folder 
+it is hidden flder 
+OK let me come out of this file 
+press colon wq 
