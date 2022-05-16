@@ -1,0 +1,8 @@
+ I am in featureA
+i am in branch feature A
+the command used to create branch featureA
+git branch featureA
+How do i switch beetween the branch 
+git checkout featureA 
+when i am in master 
+
